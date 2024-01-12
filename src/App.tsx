@@ -15,12 +15,24 @@ const App=() => {
   const [notes, setNotes]=useState<
     Note[]
   >([
-    // {
-    //   id: '2wsd55wsf',
-    //   title: 'make merry',
-    //   content: 'dance it off or hold it in your hand',
-    //   date: '28.12.2023'
-    // },
+    {
+      id: '2wsd55wsf323',
+      title: 'давай устроим выходной для глаз',
+      content: 'покататься на лыжах в лесу',
+      date: '12.01.2023'
+    },
+    {
+      id: '2wsd55wsfere',
+      title: 'make merry',
+      content: 'dance it off or hold it in your hand',
+      date: '12.01.2023'
+    },
+    {
+      id: '2wsd55wsf',
+      title: 'красивый(ая)',
+      content: 'знаешь, почему цирк дю солей объявил себя банкротом? Не выдержал конкуренции кое с кем))',
+      date: '12.01.2023'
+    },
   ])
 
   const [title,setTitle]=useState('');
