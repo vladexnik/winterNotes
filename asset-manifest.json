@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/winterNotes/static/css/main.d96579a9.css",
+    "main.js": "/winterNotes/static/js/main.6ea33984.js",
+    "index.html": "/winterNotes/index.html",
+    "main.d96579a9.css.map": "/winterNotes/static/css/main.d96579a9.css.map",
+    "main.6ea33984.js.map": "/winterNotes/static/js/main.6ea33984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d96579a9.css",
+    "static/js/main.6ea33984.js"
+  ]
+}
