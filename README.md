@@ -1,5 +1,5 @@
 
-# winterNotes (https://vladexnik.github.io/winterNotes/)
+# winterNotes (https://winternotes22.netlify.app)
 The project for making, deleting, updating notes with saving it in browser through localstorage
 
 ## Content
@@ -11,7 +11,7 @@ The project for making, deleting, updating notes with saving it in browser throu
 - [Sources](#sources)
 
 ## Deploy
-https://vladexnik.github.io/winterNotes/
+https://winternotes22.netlify.app
 
 ## Technologies
 - React, Typescript

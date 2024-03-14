@@ -1,6 +1,5 @@
 {
-  "name": "notes-app2",
-  "homepage": "https://vladexnik.github.io/winterNotes",
+  "name": "winternotes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -45,6 +44,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.1.1",
+    "postcss": "^8.4.35",
+    "postcss-loader": "^8.1.1"
   }
 }
